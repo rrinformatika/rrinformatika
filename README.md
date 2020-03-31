@@ -1,0 +1,2 @@
+# rrinformatika
+my first repository
